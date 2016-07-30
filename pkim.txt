@@ -1,1 +1,2 @@
 Paul Kim's test text here for branch/merge/commit
+changed the configuration in feature branch
